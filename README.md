@@ -51,7 +51,7 @@
 ![image](https://github.com/Loknaath-sec/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742558/327bd3d3-f26f-489e-b02b-c7d50474081e)
 
 
-### Name: P.LOKNAATH
+### Name: P. LOKNAATH
 ### Register Number: 212223240080
 
 ## Result: 
