@@ -40,17 +40,19 @@
 
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+![image](https://github.com/Loknaath-sec/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742558/1eb78bac-2452-4ae9-b844-adb1281fd781)
+![image](https://github.com/Loknaath-sec/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742558/a17f59d9-2a79-4f2d-acec-572a724683ab)
+![image](https://github.com/Loknaath-sec/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742558/a48f9e54-ba48-4fc4-965b-fc2198c1530f)
+
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+![image](https://github.com/Loknaath-sec/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742558/11b278f5-c723-4dba-b6a7-7d03c570adbf)
+![image](https://github.com/Loknaath-sec/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742558/1331f129-74b9-4967-ae56-1a8a56dc264d)
+![image](https://github.com/Loknaath-sec/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742558/327bd3d3-f26f-489e-b02b-c7d50474081e)
 
-## Output:
 
-### Name:
-### Register Number:
+### Name: P.LOKNAATH
+### Register Number: 212223240080
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
